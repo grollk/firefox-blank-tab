@@ -1,4 +1,4 @@
-# Firefox New Tab Notebook
+# New Tab Notebook for Firefox
 
 **Firefox extension that overrides Firefox's new tab page with a small notebook.** Forked from [Chrome New Tab Notebook](https://github.com/maxbeier/chrome-blank-tab).
 Added support for Windows shortcuts and dark mode.
