@@ -27,7 +27,7 @@ Added support for Windows shortcuts and dark mode.
   - <kbd>Command</kbd> <kbd>Control</kbd> <kbd>F</kbd> – full screen distraction free meditation mode
 
 
-![Screenshot](https://github.com/grollk/firefox-blank-tab/master/screenshot.png)
+![Screenshot](/screenshot.png)
 
 
 ## Bonus
