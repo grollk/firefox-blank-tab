@@ -1,6 +1,6 @@
 # Firefox New Tab Notebook
 
-**Firefox extension that overrides Firefox's new tab page with a small notebook.** Forked from [Firefox New Tab Notebook](https://github.com/maxbeier/chrome-blank-tab).
+**Firefox extension that overrides Firefox's new tab page with a small notebook.** Forked from [Chrome New Tab Notebook](https://github.com/maxbeier/chrome-blank-tab).
 Added support for Windows shortcuts and dark mode.
 
 - Minimalistic (basically just a blank tab)
@@ -24,7 +24,7 @@ Added support for Windows shortcuts and dark mode.
   - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>C</kbd> – copy
   - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>V</kbd> – paste
   - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>X</kbd> – cut
-  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>Control</kbd> <kbd>F</kbd> – full screen distraction free meditation mode
+  - <kbd>Command</kbd> <kbd>Control</kbd> <kbd>F</kbd> – full screen distraction free meditation mode
 
 
 ![Screenshot](https://github.com/grollk/firefox-blank-tab/master/screenshot.png)
