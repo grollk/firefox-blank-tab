@@ -1,6 +1,7 @@
-# [Chrome New Tab Notebook](https://chrome.google.com/webstore/detail/chrome-new-tab-notebook/jklakdeidljpklncnoijalimnkpmnhmc)
+# New Tab Notebook for Firefox
 
-**Chrome extension that overrides Chrome's new tab page with a small notebook.** Inspired by [getpapier.com](https://getpapier.com).
+**Firefox extension that overrides Firefox's new tab page with a small notebook.** Forked from [Chrome New Tab Notebook](https://github.com/maxbeier/chrome-blank-tab).
+Added support for Windows shortcuts and dark mode.
 
 - Minimalistic (basically just a blank tab)
 - Small <small>(150 bytes of JavaScript instead of 615 kb)</small>
@@ -15,23 +16,18 @@
 - Responsive layout
 - Emoji support 😌 <small>(<kbd>Command</kbd> <kbd>Control</kbd> <kbd>Space</kbd>)</small>
 - Variety of shortcuts:
-  - <kbd>Command</kbd> <kbd>B</kbd> – bold
-  - <kbd>Command</kbd> <kbd>I</kbd> – italic
-  - <kbd>Command</kbd> <kbd>Z</kbd> – undo
-  - <kbd>Command</kbd> <kbd>Shift</kbd> <kbd>Z</kbd> – redo
-  - <kbd>Command</kbd> <kbd>P</kbd> – print
-  - <kbd>Command</kbd> <kbd>C</kbd> – copy
-  - <kbd>Command</kbd> <kbd>V</kbd> – paste
-  - <kbd>Command</kbd> <kbd>X</kbd> – cut
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>B</kbd> – bold
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>I</kbd> – italic
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>Z</kbd> – undo
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>Shift</kbd> <kbd>Z</kbd> – redo
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>P</kbd> – print
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>C</kbd> – copy
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>V</kbd> – paste
+  - <kbd>Command</kbd>/<kbd>Ctrl</kbd> <kbd>X</kbd> – cut
   - <kbd>Command</kbd> <kbd>Control</kbd> <kbd>F</kbd> – full screen distraction free meditation mode
 
 
-![Screenshot](https://raw.githubusercontent.com/maxbeier/chrome-blank-tab/master/screenshot.png)
-
-
-## Installation
-
-Clone this repo, navigate to *[`chrome://extensions/`](chrome://extensions/)* and drop the folder on the page.
+![Screenshot](/screenshot.png)
 
 
 ## Bonus

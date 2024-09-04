@@ -1,9 +1,9 @@
 {
    "manifest_version": 2,
-   "name": "Chrome New Tab Notebook",
+   "name": "New Tab Notebook for Firefox",
    "version": "1.0.0",
-   "description": "Overrides Chrome's new tab page with a small notebook.",
-   "homepage_url": "https://github.com/maxbeier/chrome-blank-tab",
+   "description": "Overrides Firefox's new tab page with a small notebook.",
+   "homepage_url": "https://github.com/grollk/firefox-blank-tab",
    "chrome_url_overrides": {
       "newtab": "index.html"
    }

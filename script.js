@@ -13,9 +13,18 @@ document.onkeydown = (event) => {
       const spaces = '  ';
       document.execCommand('insertText', false, spaces);
    }
-
-   // Save per ⌘ + S
-   if (event.metaKey && event.key === 's') {
+   // Check for ⌘ (or Ctrl) + B
+   if ((event.metaKey || event.ctrlKey) && event.key === 'b') {
+      event.preventDefault();
+      document.execCommand('bold', false, null);
+   }
+   // Check for ⌘ (or Ctrl) + I
+   if ((event.metaKey || event.ctrlKey) && event.key === 'i') {
+      event.preventDefault();
+      document.execCommand('italic', false, null);
+   }
+   // Save per ⌘ (or Ctrl) + S
+   if ((event.metaKey || event.ctrlKey) && event.key ==='s') {
       event.preventDefault();
       const link = document.createElement('a');
       link.download = 'notes.html';
